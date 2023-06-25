@@ -1,0 +1,9 @@
+package com.dev.controller;
+
+import java.io.*;
+import javax.servlet.*;
+import java.util.*;
+
+public class FrontController {
+
+}
